@@ -1,0 +1,10 @@
+class  test3
+{
+	public static void main(String[] args) 
+	{
+		int a =8,b=7,c=5,d=3,e=2;
+		int f=((a+c*e)+(a/b+c))+(a%c-d);
+		System.out.println(f);
+		//System.out.println("Hello World!");
+	}
+}

@@ -1,0 +1,10 @@
+class  t2
+{
+	public static void main(String[] args) 
+	{
+		char a='A';
+		byte b=a;
+		
+		System.out.println(b);
+	}
+}

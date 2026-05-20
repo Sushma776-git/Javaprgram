@@ -1,0 +1,10 @@
+class t8 
+{
+	public static void main(String[] args) 
+	{
+		int True=1;
+		byte False=2;
+		long c=True+False;
+		System.out.println(c);
+	}
+}
